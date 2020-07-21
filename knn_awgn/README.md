@@ -8,7 +8,9 @@ selftraining.mlx file implements self-training process for labelling unlabelled 
 
 labelprop.mlx file implements label propagation algorithm for labelling unlabelled training samples and KNN is used as supervised classifier
 
-Respective files saves all data into .mat files 
+Respective files saves all required data into .mat files 
+
+Performance of SNR vs Accuracy was recorded in idpplot.m for both supervised and self-supervised process(percentage of unlabelled training samples is fixed as 25%) 
 
 References:
 
