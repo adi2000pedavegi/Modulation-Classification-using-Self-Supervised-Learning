@@ -12,5 +12,5 @@ Performance of SNR vs Accuracy was recorded in idpplot.m for both supervised and
 
 References for Rayleigh fading and LSTM Implementation:
 
-https://in.mathworks.com/help/comm/ref/comm.rayleighchannel-system-object.html 
-https://in.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html
+1. https://in.mathworks.com/help/comm/ref/comm.rayleighchannel-system-object.html 
+2. https://in.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html
