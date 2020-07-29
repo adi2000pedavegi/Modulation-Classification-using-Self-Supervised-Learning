@@ -14,7 +14,7 @@ Performance of SNR vs Accuracy was recorded in idpplot.m for both supervised and
 
 References for label propagation implementation:
 
-https://iksinc.online/tag/label-propagation/#:~:text=Label%20Propagation%20Algorithm%20(LPA),to%20have%20similar%20class%20labels.&text=Each%20node%20in%20the%20network,its%20label%20to%20other%20nodes.
+https://iksinc.online/tag/label-propagation
 https://github.com/ermongroup/ssdkl/blob/master/labelprop_and_meanteacher/labelprop.py
 
 
